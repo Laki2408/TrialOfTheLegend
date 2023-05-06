@@ -1,0 +1,51 @@
+body {
+    /** max-width: 2300px; */
+     width: 100%;
+     margin: auto;
+     
+     height: 100%;
+     position:inherit;
+     background-color: rgb(131, 120, 131);
+     -moz-background-size: 100%; 
+    -webkit-background-size: 100%; 
+    -o-background-size: 100%; 
+    background-size: 100%; 
+   }
+   
+   .button-1 {
+     all: unset;
+     background: #5d5a61;
+     border-radius: 9px;
+     font-weight: 800;
+     font-size: 200%;
+     line-height: 19px;
+     padding: 22px 55px;
+     justify-content: space-between;
+     margin: 10%;
+     color: #ffffff;
+     text-decoration: none;
+     margin-top: 30%;
+     margin-left: 100%;
+
+
+   }
+   
+   .button-1:hover {
+    background-color: #5b4242;
+   }
+
+   a {
+    text-decoration: none;
+    color: #fff;
+   }
+   
+   .main {
+     max-width: 500px;
+   }
+    
+   main {
+     max-width: 715px;
+     max-height: 240px;
+     width: 40%;
+     height: 90%;
+   }

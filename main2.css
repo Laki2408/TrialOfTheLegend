@@ -1,0 +1,54 @@
+body {
+    /** max-width: 2300px; */
+     width: 100%;
+     margin: auto;
+     height: 100%;
+     background: url("./img/z10.jpg") no-repeat center;
+     position:inherit;
+     background-color: rgb(200, 135, 198);
+     -moz-background-size: 100%; 
+    -webkit-background-size: 100%; 
+    -o-background-size: 100%; 
+    background-size: 200%; 
+   }
+   
+   .button-1 {
+     all: unset;
+     background: #4d4b60;
+     border-radius: 9px;
+     font-weight: 800;
+     font-size: 200%;
+     line-height: 19px;
+     padding: 22px 55px;
+     justify-content: space-between;
+     margin: 70%;
+     color: #ffffff;
+     text-decoration: none;
+     margin-top: 80%;
+     margin-left: 20%;
+
+
+   }
+
+   
+   
+   a {
+    text-decoration: none;
+    color: #fff;
+   }
+
+   .button-1:hover {
+    background-color: #392c37;
+   }
+
+ 
+   .main {
+     max-width: 500px;
+   }
+    
+   main {
+     max-width: 715px;
+     max-height: 240px;
+     width: 40%;
+     height: 90%;
+   }
